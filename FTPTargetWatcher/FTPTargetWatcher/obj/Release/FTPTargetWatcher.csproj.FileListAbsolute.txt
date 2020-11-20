@@ -1,0 +1,7 @@
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Release\FTPTargetWatcher.exe.config
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Release\FTPTargetWatcher.exe
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Release\FTPTargetWatcher.pdb
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Release\FTPTargetWatcher.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Release\FTPTargetWatcher.csproj.CoreCompileInputs.cache
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Release\FTPTargetWatcher.exe
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Release\FTPTargetWatcher.pdb

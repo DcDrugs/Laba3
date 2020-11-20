@@ -1,0 +1,11 @@
+{
+   "TargetPath": "D:\учеба\3 sem\ИСП\2 Лаба\FTPRequest\FTPRequest\bin\Debug\netcoreapp3.1\Files",
+   "SourcetPath": "D:\учеба\3 sem\ИСП\2 Лаба\FTPRequest\FTPRequest\bin\Debug\netcoreapp3.1\Source",
+   "Mods": {
+        "Archive": "Archive",
+        "Dearchive": "DArchive",
+        "Encrypt": "Encrypt",
+        "ArchiveAndEcrypt": "ArchiveAndEcrypt",
+        "Decrypt": "Decrypt"
+   }
+}

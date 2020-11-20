@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+  <TargetPath>D:\учеба\3 sem\ИСП\2 Лаба\FTPRequest\FTPRequest\bin\Debug\netcoreapp3.1\Files</TargetPath>
+  <SourcetPath>D:\учеба\3 sem\ИСП\2 Лаба\FTPRequest\FTPRequest\bin\Debug\netcoreapp3.1\Source</SourcetPath>
+  <Mods>
+    <Archive>Archive</Archive>
+    <Dearchive>DArchive</Dearchive>
+    <Encrypt>Encrypt</Encrypt>
+	<ArchiveAndEcrypt>ArchiveAndEcrypt</ArchiveAndEcrypt>
+    <Decrypt>Decrypt</Decrypt>
+  </Mods>
+</settings>

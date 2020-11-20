@@ -1,0 +1,13 @@
+D:\учеба\3 sem\ИСП\2 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Debug\FTPTargetWatcher.exe.config
+D:\учеба\3 sem\ИСП\2 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Debug\FTPTargetWatcher.exe
+D:\учеба\3 sem\ИСП\2 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Debug\FTPTargetWatcher.pdb
+D:\учеба\3 sem\ИСП\2 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\2 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.exe
+D:\учеба\3 sem\ИСП\2 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.pdb
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Debug\FTPTargetWatcher.exe.config
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Debug\FTPTargetWatcher.exe
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\bin\Debug\FTPTargetWatcher.pdb
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.csprojAssemblyReference.cache
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.csproj.CoreCompileInputs.cache
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.exe
+D:\учеба\3 sem\ИСП\3 Лаба\FTPTargetWatcher\FTPTargetWatcher\obj\Debug\FTPTargetWatcher.pdb
